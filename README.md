@@ -1,6 +1,6 @@
 # facebook
 
-A new Flutter project.
+Facebook clone app built with Flutter.
 
 ## Getting Started
 
